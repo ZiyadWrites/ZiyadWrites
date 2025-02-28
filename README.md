@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome and thank you for viewing my GitHub account, here you can find all the projects and sample writings that I've worked on. You can also view my portfolio at ziyadwrites.github.io
 
 <!--
 **ZiyadWrites/ZiyadWrites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
